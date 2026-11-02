@@ -1,3 +1,4 @@
+
 import random as rand
 tal = rand.randint(1, 10)
 gissning = 0
